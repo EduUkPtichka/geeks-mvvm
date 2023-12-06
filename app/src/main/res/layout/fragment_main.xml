@@ -33,4 +33,10 @@
         android:layout_height="wrap_content"
         android:text="Get Love" />
 
+    <Button
+        android:id="@+id/btn_get_room"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get room" />
+
 </LinearLayout>

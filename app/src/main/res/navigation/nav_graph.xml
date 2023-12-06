@@ -19,4 +19,11 @@
             android:id="@+id/action_onBoardingFragment_to_mainFragment"
             app:destination="@id/mainFragment" />
     </fragment>
+
+    <fragment
+        android:id="@+id/relisRomFragment"
+        android:name="com.example.geeks_mvvm.utel.RelisRomFragment"
+        android:label="fragment_relis_rom "
+        tools:layout="@layout/fragment_relis_rom" />
+
 </navigation>
